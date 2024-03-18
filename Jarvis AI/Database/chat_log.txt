@@ -1,0 +1,47 @@
+
+You :Hello,How are You? 
+Jarvis : I'm good, thank you for asking. How are you?
+You :Hello,How are You? 
+Jarvis : I'm good, thank you for asking. How are you?
+You :I am fine and you? 
+Jarvis : I'm good, thank you for asking.
+You :What is the best moment of an Indian ? 
+Jarvis : The best moment of an Indian is when they are able to help others and make a difference in their community.
+You :Where are you from? 
+Jarvis : I'm from the United States.
+You :What is you are name? 
+Jarvis : My name is Jarvis.
+You :Giet gunupur 
+Jarvis : I'm sorry, I don't understand.
+You :in which city gietu college is present ? 
+Jarvis : I'm sorry, I don't know.
+You :in which city KIIT University is present ? 
+Jarvis : KIIT University is located in Bhubaneswar, Odisha, India.
+You :in which city GIET University is present ? 
+Jarvis : GIET University is located in Gunupur, Odisha, India.
+You :Distance from Bhubaneswar to Rourkela by road ? 
+Jarvis : The distance from Bhubaneswar to Rourkela by road is approximately 200 kilometers.
+You :Distance from Bhubaneswar to Gunupur by road ? 
+Jarvis : The distance from Bhubaneswar to Gunupur by road is approximately 250 kilometers.
+You :What are the features of Python? 
+Jarvis : Some features of Python include its object-oriented design, ease of use, and readability.
+You :Where is Gunupur? 
+Jarvis : Gunupur is located in Odisha, India.
+You :Where is Rourkela? 
+Jarvis : Rourkela is located in Odisha, India.
+You :Where is Rourkela? 
+Jarvis : Rourkela is located in Odisha, India.
+You :hi 
+Jarvis : Hello, how are you?
+You :Hi jarvis  
+Jarvis : Hello, how are you?
+You :where is gunupur 
+Jarvis : Gunupur is located in Odisha, India.
+You :who won the world cup cricket in 2023 
+Jarvis : I'm sorry, I don't know.
+You :world cup 2023 
+Jarvis : I'm sorry, I don't know.
+You :cricket  
+Jarvis : I'm sorry, I don't know.
+You :who won the world cup cricket in 2019 
+Jarvis : The team that won the World Cup Cricket in 2019 was England.
