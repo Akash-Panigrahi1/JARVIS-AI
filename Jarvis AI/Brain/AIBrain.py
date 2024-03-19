@@ -6,7 +6,7 @@ import openai
 from dotenv import load_dotenv
 #coding
 
-openai.api_key=r'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'
+openai.api_key=r''#Open api key put here'
 load_dotenv()
 completion =openai.Completion()
 
